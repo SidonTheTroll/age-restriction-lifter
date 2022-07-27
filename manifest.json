@@ -1,0 +1,8 @@
+{
+    "name": "NSFW access",
+    "version": "0.0.1",
+    "description": "perfect Powercord plugin for hornys",
+    "author": "Theryn",
+    "license": "None lol",
+    "use": "Type .nsfw in the text box and choose the preference."
+}
