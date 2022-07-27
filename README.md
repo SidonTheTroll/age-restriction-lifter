@@ -4,4 +4,4 @@ Bru trust me I'm not allowing kids to watch porn or hentai on discord. It's just
 
 Yea, me and my friends break the discord TOS. Why do you mind? 
 
-This plugin was made by [Sidon] (https:youtube.com/watch?v=dQw4w9WgXcQ) and Theryn. 
+This plugin was made by [Sidon](https:youtube.com/watch?v=dQw4w9WgXcQ) and Theryn. 
